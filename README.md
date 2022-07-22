@@ -1,0 +1,2 @@
+# SyncfusionBug
+Created with CodeSandbox
